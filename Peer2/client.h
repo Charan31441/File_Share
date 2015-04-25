@@ -5,7 +5,6 @@
  *Date:  20 April 2015
  *Filename: client.h
  *Description: Client program for file share protocol
- *Reference: Took Help from a friend in IIIT-H and IIT Kanpur---------
 
  ****************************************************************************/
 #include"headers.h"
