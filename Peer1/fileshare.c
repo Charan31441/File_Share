@@ -1,9 +1,8 @@
 /***************************************************************************
- *Author:  Charan,Kranthi,Ashok
+ *Author:  Charan,Kranthi
  *Date:  22 April 2015
  *Filename: fileshare.c
  *Description: main program for file share protocol
- *Reference: Took Help from a friend in IIIT-H and IIT Kanpur---------
 
  ****************************************************************************/
 #include"headers.h"
