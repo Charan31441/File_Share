@@ -42,7 +42,7 @@ IndexGet RegEx “*mp3” (“*mp3 ”if file extension is mp3)
 
 FileHash Verify filename
 
-FileHash CheckAll                       /*Not working*/
+FileHash CheckAll XXXXXXXX NOT WORKING XXXXXXXXXX
 
 FileUpload filename
 
