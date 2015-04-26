@@ -33,10 +33,17 @@ Now in Terminal (which is acting as Client),Can Accept following Requests
 Requests are:
 
 q or Q  (for quit)
+
 IndexGet<space>LongList
+
 IndexGet<space>ShortList                          
+
 IndexGet<space>RegEx<space>“*mp3” (“*mp3 ”if file extension is mp3) 
+
 FileHash<space>Verify<space> <filename>
+
 FileHash<space>CheckAll                          /*Not working*/
+
 FileUpload<space><filename>
+
 FileDownload<space><filename>
