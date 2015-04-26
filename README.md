@@ -1,15 +1,24 @@
-                                    README                       
+   #                                 README                       
 Run This Commands in terminal:
 //(In Terminal1)
+
 $cd File_share/
+
 File_Share/$ cd Peer1/
+
 File_Share/Peer1/ $ gcc fileshare.c -o server 
+
 File_Share/Peer1/ $ ./server
 
+
 //(In other Terminal2)
+
 $cd File_share/
+
 File_Share/$ cd Peer2/
+
 File_Share/Peer2/ $ gcc fileshare.c 
+
 File_Share/Peer2/ $ ./a.out
  
 Give any port no. In Terminal1 and Terminal2(Binding an unique port number)
