@@ -34,7 +34,7 @@ Requests are:
 
 q or Q  (for quit)
 
-IndexGet<space>LongList
+IndexGet  <space>LongList
 
 IndexGet<space>ShortList                          
 
