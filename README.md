@@ -34,16 +34,16 @@ Requests are:
 
 q or Q  (for quit)
 
-IndexGet/<space>LongList
+IndexGet LongList
 
-IndexGet<space>ShortList                          
+IndexGet ShortList                          
 
-IndexGet<space>RegEx<space>“*mp3” (“*mp3 ”if file extension is mp3) 
+IndexGet RegEx “*mp3” (“*mp3 ”if file extension is mp3) 
 
-FileHash<space>Verify<space> <filename>
+FileHash Verify filename
 
-FileHash<space>CheckAll                          /*Not working*/
+FileHash CheckAll                          /*Not working*/
 
-FileUpload<space><filename>
+FileUpload filename
 
-FileDownload<space><filename>
+FileDownload filename
