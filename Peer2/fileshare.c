@@ -1,5 +1,5 @@
 /***************************************************************************
- *Author:  Charan,Kranthi
+ *Author:  Charan
  *Date:  22 April 2015
  *Filename: fileshare.c
  *Description: main program for file share protocol
