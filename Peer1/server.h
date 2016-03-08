@@ -1,6 +1,6 @@
 /**************************************************************************
 
- *Author: Charan,Kranthi
+ *Author: Charan
  *Date:  20 April 2015
  *Filename: server.h
  *Description: Server program for file share protocol
